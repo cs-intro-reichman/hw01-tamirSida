@@ -6,7 +6,7 @@ public class Coins {
    
 
     
-            System.out.println(("use" + " " + (coins / 25) + " " + "quarters" + " " + "and" + " " + (coins % 25) + " " + "cents"));
+            System.out.println(("Use" + " " + (coins / 25) + " " + "quarters" + " " + "and" + " " + (coins % 25) + " " + "cents"));
 }
          }
       
