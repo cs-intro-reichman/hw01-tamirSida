@@ -1,4 +1,4 @@
-public class Coins1 {
+public class Coins {
    public static void main(String[] args) {
       // Performs simple arithmetic operations on one commnand-line argument
       int coins = Integer.parseInt(args[0]);
