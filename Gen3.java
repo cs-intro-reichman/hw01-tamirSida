@@ -17,7 +17,7 @@ public class Gen3 {
       System.out.println(num2);
       System.out.println(num3);
 
-      System.out.println("The minimal number genrated was " + smallestnum);
+      System.out.println("The minimal generated number was " + smallestnum);
 
 
    }
